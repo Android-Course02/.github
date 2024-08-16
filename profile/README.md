@@ -1,17 +1,42 @@
-
 # Android Development Course
 
 ## Overview
-Welcome to the Android Development Course! This course is designed to take you from the basics of Android development to building fully-functional Android applications. By the end of this course, you'll have the knowledge and experience to create your own Android apps and publish them on the Google Play Store.
+Welcome to the Android Development Course! This course is designed to guide you through the Kotlin programming language and then dive into building fully-functional Android applications. By the end of this course, you'll have the knowledge and experience to create your own Android apps and publish them on the Google Play Store.
 
 ## Prerequisites
 Before taking this course, you should have:
-- Basic knowledge of Java or Kotlin programming languages.
-- Understanding of Object-Oriented Programming (OOP) concepts.
-- Familiarity with version control systems like Git.
+- Basic understanding of programming concepts.
 - A computer with Android Studio installed.
 
 ## Course Outline
+
+### Part 1: Kotlin Programming
+1. **Introduction to Kotlin**
+   - Setting up the development environment (IntelliJ IDEA/Android Studio)
+   - Basic syntax and structure of Kotlin
+   - Variables, data types, and operators
+
+2. **Control Flow**
+   - Conditional statements (if, when)
+   - Loops (for, while)
+   - Ranges and collections
+
+3. **Functions and Lambdas**
+   - Defining and calling functions
+   - Higher-order functions and lambdas
+   - Inline functions and extension functions
+
+4. **Object-Oriented Programming in Kotlin**
+   - Classes and objects
+   - Inheritance and interfaces
+   - Data classes and sealed classes
+
+5. **Advanced Kotlin Concepts**
+   - Null safety and exceptions
+   - Generics and type aliases
+   - Coroutines for asynchronous programming
+
+### Part 2: Android Development
 1. **Introduction to Android Development**
    - Overview of Android OS
    - Setting up the development environment (Android Studio)
@@ -46,10 +71,16 @@ Before taking this course, you should have:
    - App signing and ProGuard
    - Publishing on Google Play Store
 
+## Assignments and Projects
+Throughout the course, you'll work on various assignments and projects designed to reinforce the concepts covered in each module. By the end of the course, you'll have completed:
+- A simple notes app (CRUD operations)
+- A weather app using API calls
+- A social media feed app with RecyclerView
+
 ## Resources
+- [Official Kotlin Documentation](https://kotlinlang.org/docs/home.html)
 - [Official Android Documentation](https://developer.android.com/docs)
 - [Android Jetpack Components](https://developer.android.com/jetpack)
-- [Kotlin Programming Language](https://kotlinlang.org/)
 - [GitHub Repositories for Sample Projects](#)
 
 ## Getting Started
@@ -67,3 +98,5 @@ Contributions are welcome! If you have any suggestions or find any issues, pleas
 This course is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ---
+
+This version includes a dedicated section for the Kotlin course, providing a complete learning path from Kotlin basics to advanced Android development.
