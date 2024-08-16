@@ -46,12 +46,6 @@ Before taking this course, you should have:
    - App signing and ProGuard
    - Publishing on Google Play Store
 
-## Assignments and Projects
-Throughout the course, you'll work on various assignments and projects designed to reinforce the concepts covered in each module. By the end of the course, you'll have completed:
-- A simple notes app (CRUD operations)
-- A weather app using API calls
-- A social media feed app with RecyclerView
-
 ## Resources
 - [Official Android Documentation](https://developer.android.com/docs)
 - [Android Jetpack Components](https://developer.android.com/jetpack)
