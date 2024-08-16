@@ -1,6 +1,3 @@
-Here's a structured template for your README file tailored to an Android course. You can adjust the sections based on the specific content and goals of your course:
-
----
 
 # Android Development Course
 
