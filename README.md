@@ -1,6 +1,3 @@
-Here's an updated version of the README file that includes a section for the Kotlin course:
-
----
 
 # Android Development Course
 
